@@ -1,0 +1,10 @@
+# env files
+frontend/.env
+frontend/.env.local
+backend/.env
+backend/.env.local
+
+# build / deps
+frontend/node_modules
+frontend/dist
+backend/target
